@@ -1,0 +1,44 @@
+* {
+  font-family: "Montserrat", sans-serif;
+
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #a6f5c1;
+}
+
+ h1, h2 {
+  color: #031f03;
+  text-align: center;
+  padding: 15px;
+  margin: 15px;
+}
+
+form {
+  background: #f8fff8;
+  margin: 15px 150px;
+  padding: 15px;
+  text-align: center;
+  border-radius: 15px;
+}
+input,
+select {
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+}
+
+label {
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+}
+
+.buttonForm {
+  margin: 25px;
+  padding: 5px;
+  text-align: center;
+  width: 60px;
+  height: 40px;
+}
